@@ -1,0 +1,12 @@
+# Testing AI Agents — eval-harness demo. neurals.ca Playlist 1, Episode #36.
+#
+# No pip install required: the demo + the shared neurals_demo package are
+# standard-library only (urllib + json), local-first.
+#
+# OPTIONAL, for the real LLM-as-judge step (otherwise a deterministic stub runs):
+#   - a running Ollama server:  ollama serve
+#   - a chat model:             ollama pull llama3.1
+#
+# Run:
+#   export PYTHONPATH=../../_shared-demos:$PYTHONPATH
+#   python3 demo.py

@@ -8,6 +8,8 @@ Runnable companion code for **The Foundations Series: Understanding Agentic AI**
 |---|---|---|
 | 14 | [`14-cost-aware-agent/`](14-cost-aware-agent/) | Cut Your Claude API Bill in Half (Live Code Demo) |
 | 33 | [`33-build-multi-agent-system/`](33-build-multi-agent-system/) | Build a Multi-Agent System in 10 Minutes (Python) _(video coming soon)_ |
+| 34 | [`34-agentic-rag/`](34-agentic-rag/) | Agentic RAG: How Agents Decide When to Retrieve _(video coming soon)_ |
+| 36 | [`36-testing-ai-agents/`](36-testing-ai-agents/) | How to Test AI Agents: Simulated Environments and Eval Metrics _(video coming soon)_ |
 
 ## Shared library — `neurals_demo/`
 

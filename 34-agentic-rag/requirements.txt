@@ -1,0 +1,8 @@
+# Agentic RAG demo — stdlib only. No pip packages required.
+# It talks to a LOCAL Ollama server over HTTP via the shared neurals_demo helpers.
+#
+# One-time setup:
+#   1) install + run Ollama        https://ollama.com   (then: ollama serve)
+#   2) pull the two small models:
+#        ollama pull llama3.1
+#        ollama pull nomic-embed-text
