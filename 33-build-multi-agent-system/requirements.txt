@@ -1,0 +1,2 @@
+# stdlib only (urllib + json). Local-first against Ollama.
+# Optional: nothing to pip install. Pull a model: `ollama pull llama3.1`.

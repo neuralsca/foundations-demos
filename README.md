@@ -7,6 +7,7 @@ Runnable companion code for **The Foundations Series: Understanding Agentic AI**
 | # | Folder | Video |
 |---|---|---|
 | 14 | [`14-cost-aware-agent/`](14-cost-aware-agent/) | Cut Your Claude API Bill in Half (Live Code Demo) |
+| 33 | [`33-build-multi-agent-system/`](33-build-multi-agent-system/) | Build a Multi-Agent System in 10 Minutes (Python) _(video coming soon)_ |
 
 ## Shared library — `neurals_demo/`
 
